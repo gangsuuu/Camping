@@ -1,0 +1,25 @@
+https://www.youtube.com/watch?v=jIkn9dLBfNc&t=294s
+https://marketplace.visualstudio.com/items?itemName=cesium.gltf-vscode
+npx gltfjsx public/models/Camping\ Asset\ Collection.glb -o src/componetns/Camping.jsx -k -K -r public -> gltfjsx 사용법
+
+/gltfjsx github
+https://github.com/pmndrs/gltfjsx#readme
+https://www.npmjs.com/package/gltfjsx
+
+//post processing
+https://github.com/pmndrs/postprocessing
+
+//toneMapping
+톤 매핑(Tonemapping) 은 일반적으로 컬러 값을 HDR에서 LDR (low dynamic range)로 매핑하는 과정입니다. Unity에서 이는 대부분의 플랫폼에서 임의의 16 비트 부동 소수점 컬러 값을 [0,1] 범위의 기존 8 비트 값으로 매핑하는 과정을 의미합니다.
+
+//cameraControll
+https://github.com/yomotsu/camera-controls
+fitToBox -> box 등의 오브젝트를 향해서 가장 가까운 방법으로 다가감
+
+//sespens -> 비동기식으로 랜더링이 끝나지 않은 dom을 제외하고 다른 dom먼저 랜더링함
+
+//tailwindcss
+https://tailwindcss.com/
+
+//jotai
+https://velog.io/@ggong/%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-jotai
